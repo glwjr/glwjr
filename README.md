@@ -14,7 +14,8 @@ I'm a Software Engineer with a background in web and server-side development. I 
 </span>
 
 ## Active Projects 👨🏽‍💻
-- [**Prism**](https://github.com/glwjr/prism): A mood tracking application written with FastAPI (Python) and Next.js (React + TypeScript).
+- [**Prism**](https://github.com/glwjr/prism): A mood tracking application developed with FastAPI (Python) and Next.js (TypeScript).
+- [**Nostalgia**](https://github.com/glwjr/nostalgia): A social media application built with Node.js, Express, and React.
 
 ## Currently Learning 🌱
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
