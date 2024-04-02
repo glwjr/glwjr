@@ -1,6 +1,6 @@
 # Hi, I'm Gary! 👋🏽
 
-I'm a Software Engineer with a background in web and server-side development. I thrive on collaboration and innovation to create impactful web applications. I received my BA from UC Berkeley, my MA from Brown University, and my Certificate in Software Engineering from Fullstack Academy.
+I'm a Software Engineer who's proficient in TypeScript, React.js, and Node.js. I thrive on collaboration and innovation to create impactful web applications. I received my BA from UC Berkeley, my MA from Brown University, and my Certificate in Software Engineering from Fullstack Academy.
 
 ## Skills 🛠️
 <span>
