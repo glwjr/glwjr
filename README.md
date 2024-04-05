@@ -15,7 +15,7 @@ I'm a Software Engineer who's proficient in TypeScript, React.js, and Node.js. I
 
 ## Active Projects 👨🏽‍💻
 - [**Prism**](https://github.com/glwjr/prism): A mood tracking application developed with FastAPI (Python) and Next.js (TypeScript).
-- [**Sevenfold**](https://github.com/Radiant-Realms/sevenfold): An organization management web application built with Next.js (TypeScript).
+- [**Sevenfold**](https://github.com/RadiantRealms/sevenfold): An organization management web application built with Next.js (TypeScript).
 
 ## Currently Learning 🌱
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
