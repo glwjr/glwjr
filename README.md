@@ -1,6 +1,6 @@
 # Hi, I'm Gary! 👋🏽
 
-I'm a Software Engineer who's proficient in TypeScript, React.js, and Node.js. I thrive on collaboration and innovation to create impactful web applications. I received my BA from UC Berkeley, my MA from Brown University, and my Certificate in Software Engineering from Fullstack Academy.
+I'm a Software Engineer who's proficient in TypeScript/JavaScript, React.js, and Node.js. I thrive on collaboration and innovation to create impactful web applications. I received my BA from UC Berkeley, my MA from Brown University, and my Certificate in Software Engineering from Fullstack Academy.
 
 ## Skills 🛠️
 <span>
@@ -12,10 +12,3 @@ I'm a Software Engineer who's proficient in TypeScript, React.js, and Node.js. I
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </span>
-
-## Active Projects 👨🏽‍💻
-- [**Prism**](https://github.com/glwjr/prism): A mood tracking application developed with FastAPI (Python) and Next.js (TypeScript).
-- [**Sevenfold**](https://github.com/RadiantRealms/sevenfold): An organization management web application built with Next.js (TypeScript).
-
-## Currently Learning 🌱
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
