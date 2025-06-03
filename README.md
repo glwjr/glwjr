@@ -4,9 +4,9 @@ I'm a software engineer with an unconventional path, from studying social scienc
 
 ## 🏗️ What I'm Up To
 
-- 🎓 Pursuing **MS in Computer Science** at Georgia Tech (2025-2027)
-- 💻 Building full-stack applications that make a real impact
-- 📍 Based in San Diego, CA
+- 🎓 Working on my **MS in Computer Science** at Georgia Tech (Expected 2027)
+- 💻 Building full-stack applications that serve real communities
+- 📍 San Diego, CA
 
 ## 🛠️ Tech Stack
 
@@ -16,4 +16,4 @@ I'm a software engineer with an unconventional path, from studying social scienc
 
 ## 🌱 What Drives Me
 
-I believe technology should serve real communities and solve meaningful problems. I'm passionate about building tools that make a difference.
+I enjoy creating software for organizations where simple tools can make a big difference in their daily work.
