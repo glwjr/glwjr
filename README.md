@@ -1,4 +1,4 @@
-# Hi, I'm Gary 👋
+# Hi, I'm Gary 👋🏽
 
 I'm a software engineer with an unconventional path, from studying social sciences at UC Berkeley and Brown, to tech sales, and now pursuing my MS in Computer Science at Georgia Tech. This diverse background helps me build technology that truly serves people's needs.
 
