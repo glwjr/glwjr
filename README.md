@@ -1,9 +1,9 @@
 # Hi, I'm Gary 👋🏽
-
-I'm a software engineer with an unconventional path, from studying social sciences at UC Berkeley and Brown, to EdTech sales, and now pursuing my MS in Computer Science at Georgia Tech.
+I'm a software engineer building full-stack applications with modern web technologies. Currently pursuing my MS in Computer Science at Georgia Tech while leveraging my unique background in tech sales and social sciences to create user-centered solutions.
 
 ## 🛠️ Tech Stack
-
 **Languages:** TypeScript • JavaScript • Python • Java • SQL  
-**Web:** React • Next.js • Express • FastAPI • Spring Boot  
-**Data & Cloud:** PostgreSQL • SQLite • Prisma • Vercel • Heroku
+**Frontend:** React • Next.js • Redux • Tailwind CSS • HTML/CSS  
+**Backend:** Node.js • Express • NestJS • FastAPI • Spring Boot  
+**Database & Tools:** PostgreSQL • Prisma ORM • Jest • Pytest • Git • CI/CD  
+**Deployment:** Vercel • Render • Heroku • Auth0
